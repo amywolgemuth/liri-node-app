@@ -9,13 +9,32 @@ var axios = require("axios");
 var fs = require("fs");
 
 //Globally declared variables
-var whatToDo = process.argv[2];
-var searchThis = process.argv.slice(3).join(" ");
+var command = process.argv[2];
+var input = process.argv.slice(3).join(" ");
 var divider = "\n------------------------------------------------------";
 
-function liri() {
+function concertIt(bandQuery){
+    var URL = "https://rest.bandsintown.com/artists/" + bandQuery + "/events?app_id=codingbootcamp"
+            axios.get(URL).then(function (response) {
+                var result = response.data[0];
+
+                var bandData = [
+                    "Name: " + result.venue.name,
+                    "Location: " + result.venue.city + ", " + result.venue.region,
+                    "Date: " + result.datetime
+                ].join("\n\n");
+
+                fs.appendFile("log.txt", bandData + divider, function (err) {
+                    if (err) throw err;
+                    console.log(bandData);
+                });
+            })
+}
+
+var liri = function (whatToDo, searchThis) {
     switch (whatToDo) {
         case "concert-this":
+            concertIt(searchThis);
             break;
 
         case "spotify-this-song":
@@ -29,4 +48,4 @@ function liri() {
 
     }
 }
-liri();
+liri (command, input);
