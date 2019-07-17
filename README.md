@@ -26,11 +26,11 @@ For movie-this, enter a movie title.
 Do-what-it-says: no search item is used since it uses the command and item in random.txt. Update random.txt with one of the commands plus a search item. 
 
 ## Technologies used
-dotenv
-node-spotify-api
-axios
-fs
-node.js
-Node Spotify API
-Town Artist Events API
-OMDB API
+1. dotenv
+1. node-spotify-api
+1. axios
+1. fs
+1. node.js
+1. Node Spotify API
+1. Town Artist Events API
+1. OMDB API
