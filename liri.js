@@ -35,7 +35,7 @@ function concertIt(bandSearch) {
 function spotifyIt(musicSearch) {
     //  * If no song is provided then your program will default to "The Sign" by Ace of Base.
     if (musicSearch == "") {
-        musicSearch = "The Sign Ace of Base";
+        musicSearch = "The Sign";
     }
     spotify.search({ type: 'track', query: musicSearch }, function (err, data) {
         if (err) {
@@ -63,7 +63,7 @@ function movieIt(movieSearch) {
     var movieChoice;
     if (movieSearch == "") {
         console.log(movieSearch)
-        movieChoice = "Jumanji";
+        movieChoice = "Mr. Nobody";
     } else {
         movieChoice = movieSearch
     }
