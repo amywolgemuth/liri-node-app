@@ -13,10 +13,10 @@ The app is organized using 5 functions: a switch statement and the 4 functions f
 ## How to use LIRI
 
 To run the app, open liri.js in your terminal. You must always type "node liri.js" every time you run a search. Add a space and one of four commands then search item for all except do-what-it-says. Examples below:
-    *node liri.js concert-this Ed Sheeran
-    *node liri.js spotify-this-song Chainsmokers
-    *node liri.js movie-this Independence Day
-    *node liri.js do-what-it-says
+    * Item 1 node liri.js concert-this Ed Sheeran
+    * Item 2 node liri.js spotify-this-song Chainsmokers
+    * Item 3 node liri.js movie-this Independence Day
+    * Item 4 node liri.js do-what-it-says
 
 For concert-this, type an artist's name.
 For spotify-this-song, add a song title. i.e. node liri.js spotify-this-song "I'm gonna take my horse" 
