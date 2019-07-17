@@ -3,4 +3,160 @@ Name: California Mid-State Fair
 Location: Paso Robles, CA
 
 Date: 2019-07-20T19:30:00
+------------------------------------------------------Name: Otkritie Arena
+
+Location: Moscow, 
+
+Date: 2019-07-19T20:00:00
 ------------------------------------------------------
+Venue Name: Otkritie Arena
+
+Venue Location: Moscow, 
+
+Concert Date: 2019-07-19T20:00:00
+===============================
+=============================
+Venue Name: Otkritie Arena
+
+Venue Location: Moscow, 
+
+Concert Date: 2019-07-19T20:00:00
+===============================
+=============================
+Venue Name: Otkritie Arena
+
+Venue Location: Moscow, 
+
+Concert Date: 2019-07-19T20:00:00
+=============================
+Venue Name: Otkritie Arena
+
+Venue Location: Moscow, 
+
+Concert Date: 2019-07-19T20:00:00
+=============================Movie: Independence Day
+
+Year: 1996
+
+IMDB Rating: 7.0/10
+
+Rotten Tomatoes Rating: 64%
+
+Country: USA
+
+Language: English
+
+Plot: The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.
+
+Actors: Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell
+=============================Movie: Independence Day
+Year: 1996
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 7.0/10
+Country: USA
+Language: English
+Plot: The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.
+Actors: Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell
+=============================Movie: Jumanji
+Year: 1995
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 7.0/10
+Country: USA
+Language: English, French
+Plot: When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.
+Actors: Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+=============================Movie: Jumanji
+Year: 1995
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 7.0/10
+Country: USA
+Language: English, French
+Plot: When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.
+Actors: Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+=============================Movie: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 7.8/10
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=============================Movie: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 7.8/10
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+=============================Movie: Jumanji
+Year: 1995
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 7.0/10
+Country: USA
+Language: English, French
+Plot: When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.
+Actors: Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+=============================Movie: Forrest Gump
+Year: 1994
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 8.8/10
+Country: USA
+Language: English
+Plot: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+Actors: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+=============================
+Venue Name: California Mid-State Fair
+
+Venue Location: Paso Robles, CA
+
+Concert Date: 2019-07-20T19:30:00
+=============================
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC
+
+Concert Date: 2019-07-17T19:30:00
+=============================
+Venue Name: Rock USA [7.18 - 7.20]
+
+Venue Location: Oshkosh, WI
+
+Concert Date: 2019-07-20T19:00:03
+=============================
+Venue Name: American Airlines Arena
+
+Venue Location: Miami, FL
+
+Concert Date: 2019-08-07T00:00:00
+=============================
+Venue Name: Capital One Arena
+
+Venue Location: Washington, DC
+
+Concert Date: 2019-07-17T19:30:00
+=============================Movie: Redemption
+Year: 2013
+IMDB Rating: 6.2/10
+Rotten Tomatoes Rating: 6.2/10
+Country: UK, USA
+Language: English, Polish, Cantonese, Italian
+Plot: Homeless and on the run from a military court martial, a damaged ex-special forces soldier navigating London's criminal underworld seizes an opportunity to assume another man's identity -- transforming into an avenging angel in the process.
+Actors: Jason Statham, Agata Buzek, Vicky McClure, Benedict Wong
+=============================Movie: Jumanji
+Year: 1995
+IMDB Rating: 7.0/10
+Rotten Tomatoes Rating: 7.0/10
+Country: USA
+Language: English, French
+Plot: When two kids find and play a magical board game, they release a man trapped for decades in it and a host of dangers that can only be stopped by finishing the game.
+Actors: Robin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+=============================Movie: Redemption
+Year: 2013
+IMDB Rating: 6.2/10
+Rotten Tomatoes Rating: 6.2/10
+Country: UK, USA
+Language: English, Polish, Cantonese, Italian
+Plot: Homeless and on the run from a military court martial, a damaged ex-special forces soldier navigating London's criminal underworld seizes an opportunity to assume another man's identity -- transforming into an avenging angel in the process.
+Actors: Jason Statham, Agata Buzek, Vicky McClure, Benedict Wong
+=============================
